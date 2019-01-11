@@ -1,1 +1,1 @@
-This Arm Template is for Azure Linux Web Apps or Web App for Containers
+This Arm Template allows you to deploy a new Azure Web App for Container Application with an App Service Plan
